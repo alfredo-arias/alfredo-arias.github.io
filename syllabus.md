@@ -3,25 +3,26 @@
 
 ---
 
- Rango                                | Kata                                   | Bunkai
---------------------------------------|----------------------------------------|---------------------------
-[`10mo kyu`](el-camino-al-10mo-kyu)   |                                        |
-[`9no kyu`](el-camino-al-9no-kyu)     | Gekisai Dai Ichi - Secuencia (embusen) | 
-[`8vo kyu`](el-camino-al-8vo-kyu)     | Gekisai Dai Ichi -  Buena forma        |
-[`8vo kyu`](el-camino-al-8vo-kyu)     | Gekisai Dai Ni - Secuencia (embusen)   | 
-[`7mo kyu`](el-camino-al-7mo-kyu)     | Gekisai Dai Ni - Buena forma           | Gekisai Dai Ichi
-[`7mo kyu`](el-camino-al-7mo-kyu)     | Sanchin - Secuencia (embusen)          | 
-[`6to kyu`](el-camino-al-6to-kyu)     | Saifa - Secuencia (embusen)            | Gekisai Dai Ni
-[`5to kyu`](el-camino-al-5to-kyu)     | Saifa - Buena forma                    | Saifa
-[`4to kyu`](el-camino-al-4to-kyu)     | Seiyunchin - Secuencia (embusen)       | Gekisai Dai Ichi Renzoku
-[`3ro kyu`](el-camino-al-3ro-kyu)     | Seiyunchin - Buena forma               | Seiyunchin (primeros 6)
-[`2do kyu`](el-camino-al-2do-kyu)     | Shisochin - Secuencia (embusen)        | Seiyunchin (últimos 6)
-[`1er kyu`](el-camino-al-1er-kyu)     | Shisochin - Buena forma                |
-[`Shodan`](el-camino-al-shodan)       |                                        | Shisochin
+ Rango                                                             | Kata                                   | Bunkai
+-------------------------------------------------------------------|----------------------------------------|---------------------------
+[`10mo kyu`](#el-camino-al-10mo-kyu "Ir a El camino al 10mo kyu")  |                                        |
+[`9no kyu`](#el-camino-al-9no-kyu "Ir a El camino al 9no kyu")     | Gekisai Dai Ichi - Secuencia (embusen) | 
+[`8vo kyu`](#el-camino-al-8vo-kyu "Ir a El camino al 8vo kyu")     | Gekisai Dai Ichi -  Buena forma        |
+[`8vo kyu`](#el-camino-al-8vo-kyu "Ir a El camino al 8vo kyu")     | Gekisai Dai Ni - Secuencia (embusen)   | 
+[`7mo kyu`](#el-camino-al-7mo-kyu "Ir a El camino al 7mo kyu")     | Gekisai Dai Ni - Buena forma           | Gekisai Dai Ichi
+[`7mo kyu`](#el-camino-al-7mo-kyu "Ir a El camino al 7mo kyu")     | Sanchin - Secuencia (embusen)          | 
+[`6to kyu`](#el-camino-al-6to-kyu "Ir a El camino al 6to kyu")     | Saifa - Secuencia (embusen)            | Gekisai Dai Ni
+[`5to kyu`](#el-camino-al-5to-kyu "Ir a El camino al 5to kyu")     | Saifa - Buena forma                    | Saifa
+[`4to kyu`](#el-camino-al-4to-kyu "Ir a El camino al 4to kyu")     | Seiyunchin - Secuencia (embusen)       | Gekisai Dai Ichi Renzoku
+[`3ro kyu`](#el-camino-al-3ro-kyu "Ir a El camino al 3er kyu")     | Seiyunchin - Buena forma               | Seiyunchin (primeros 6)
+[`2do kyu`](#el-camino-al-2do-kyu "Ir a El camino al 2do kyu")     | Shisochin - Secuencia (embusen)        | Seiyunchin (últimos 6)
+[`1er kyu`](#el-camino-al-1er-kyu "Ir a El camino al 1er kyu")     | Shisochin - Buena forma                |
+[`Shodan`](#el-camino-al-shodan "Ir a El camino shodan")           |                                        | Shisochin
 
 ---  
 
-# El camino al 10mo Kyu
+[`Ir al inicio`](#requerimientos-de-grados "Ir a inicio")
+# El camino al 10mo Kyu 
 Bienvenido al International Kazen Koryu & Kobudo. Este es tu primer paso en un largo viaje hacia el dominio del Karate Tradicional de Okinawa Goju Ryu. Por favor, recuerda tu emoción y la fresca sensación que sientes ahora a lo largo de tu viaje, a esta sensación la llamamos “la mentalidad de principiante”.
 
 La siguiente es una lista de los requerimientos para llegar al próximo nivel – 10mo Kyu:
@@ -73,6 +74,7 @@ La siguiente es una lista de los requerimientos para llegar al próximo nivel �
 
 ---
 
+[`Ir al inicio`](#requerimientos-de-grados "Ir a inicio")
 # El camino al 9no Kyu
 Felicitaciones por tu ascenso al 10mo Kyu. Ahora eres oficialmente parte del Yukyu-Sha (miembros clasificados por Kyu, los miembros del cinturón negro se llaman Yudan-Sha). Entrena duro y no olvides “la mentalidad de principiante”.
 
@@ -133,6 +135,7 @@ La siguiente es una lista de los requerimientos para llegar al próximo nivel �
 
 --- 
 
+[`Ir al inicio`](#requerimientos-de-grados "Ir a inicio")
 # El camino al 8vo Kyu
 Felicitaciones por tu ascenso al 9no Kyu. Ahora aprenderás los detalles del kata Gekisai Dai Ichi y las técnicas básicas de kumite (combate).
 
@@ -200,6 +203,7 @@ La siguiente es una lista de los requerimientos para llegar al próximo nivel �
 
 ---
 
+[`Ir al inicio`](#requerimientos-de-grados "Ir a inicio")
 # El camino al 7mo Kyu
 Felicitaciones por tu ascenso al 8no Kyu. Ahora aprenderás El kata más importante (fundamental) en nuestro estilo, SANCHIN. Los movimientos de este kata parecen muy simples y fáciles. Pero encontraras este kata difícil incluso después que hayas llegado al cinturón negro. También empezaras a aprender las aplicaciones de los katas (bunkai).
 
@@ -224,7 +228,7 @@ La siguiente es una lista de los requerimientos para llegar al próximo nivel �
 + Sanchin dachi
 + Neko ashi dachi (giro, 45 gratos hacia adelante y hacia atrás)
 
-**Kihon (movimientos básicos)**
+**Ido (movimientos básicos)**
 + Hiza geri
 + Yoko geri
 + Mae geri, mawashi geri, gyaku zuki
@@ -271,6 +275,7 @@ La siguiente es una lista de los requerimientos para llegar al próximo nivel �
 
 ---
 
+[`Ir al inicio`](#requerimientos-de-grados "Ir a inicio")
 # El camino al 6mo Kyu
 Felicitaciones por tu ascenso al 7mo Kyu. Ahora, aprenderás el kata Saifa, la cual posee muchas técnicas únicas de tipo azote (látigo) y una posición de una sola pierna llamada “sagi ashi dachi (postura de grulla)”. Esta será un gran reto. Vas al nivel intermedio y comenzarás a estudiar el arte en profundidad.
 
@@ -343,6 +348,7 @@ Kata
 
 --- 
 
+[`Ir al inicio`](#requerimientos-de-grados "Ir a inicio")
 # El camino al 5to Kyu
 
 Felicitaciones por tu ascenso al 6to Kyu. En este nivel, tu deberías de ser capaz de conducir las ceremonias de apertura y cierre. Debes de estar ayudando a los estudiantes principiantes, debes de estar atento a que tu comportamiento, terminología y técnicas son correctas. 
@@ -403,8 +409,8 @@ Una vez el maestro sienta que estás preparado, serás invitado al examen de gra
 
 ---  
 
+[`Ir al inicio`](#requerimientos-de-grados "Ir a inicio")
 # El camino al 4to Kyu
-
 Felicitaciones por tu ascenso al 5to Kyu. Ahora aprenderás el kata Seiyunchin. Este kata es único en su variedad de movimientos. No hay patadas en este kata, pero notaras que tus piernas ser fortalecen. Este kata tiene movimientos lentos y pesados (muchimi) y movimientos rápidos como de resorte (chiru no chan chan).
 
 La siguiente es una lista de los requerimientos para llegar al próximo nivel – 4to Kyu.
@@ -473,9 +479,9 @@ Kata
 **Una vez el maestro sienta que estás preparado, serás invitado al examen de grado**
 
 --- 
-  
-# El camino al 3er Kyu
 
+[`Ir al inicio`](#requerimientos-de-grados "Ir a inicio")  
+# El camino al 3er Kyu
 Felicitaciones por tu ascenso al 4to Kyu. Estas un paso antes de ser un estudiante avanzado (cinturón marrón). Ahora quiero que mires atrás y veas que tan lejos has llegado desde el día que empezaste tu entrenamiento de karate. Has caminado un largo camino. Pero al mismo tiempo, también debes poder ver todo lo que te falta para mejorarte a ti mismo. Recuerda lo que dijimos antes “No olvides la mentalidad del principiante”. Mucha gente siente que saben mucho cuando llegan a este nivel. Debes de ser lo suficientemente humilde para tener conciencia de que aún no sabes nada. Nada puede agregarse a cubo que ya está lleno.
 
 La siguiente es una lista de los requerimientos para llegar al próximo nivel – 3to Kyu.
@@ -539,8 +545,8 @@ Una vez el maestro sienta que estás preparado, serás invitado al examen de gra
 
 --- 
 
+[`Ir al inicio`](#requerimientos-de-grados "Ir a inicio")
 # El camino al 2do Kyu
-
 Felicitaciones por tu ascenso al 3er Kyu. Ahora eres un cinturón marrón, un estudiante avanzado. Aprenderás el kata Shisochin, la cual es el último kata antes de tu examen para cinturón negro. Sí, es tiempo para comenzar a prepararte para examen de cinturón negro. Asegúrate de tener buenas bases en kata y kumite también, así como un buen entendimiento de la filosofía del Goju-Ryu, su historia y sus costumbres. Te recomendación que repases todas las técnicas, historia y terminología desde el 10mo Kyu hasta ahora.  
   
 La siguiente es una lista de los requerimientos para llegar al próximo nivel – 2do Kyu:
@@ -601,6 +607,7 @@ o	Chudan yoko uke, jodan kagi zuki
 
 ---
 
+[`Ir al inicio`](#requerimientos-de-grados "Ir a inicio")
 # El camino al 1er Kyu
 Felicitaciones por tu ascenso al 2er Kyu. La más grande meta de la mayoría de las personas que empiezan el entrenamiento de karate es convertirse en cinta negra. Tu estas casi ahí. Todos estos años de duro entrenamiento finalmente te han llevado a estar a un solo paso antes del nivel de cinta negra. Comienza a prepararte para tu examen de cinta negra tanto mental, como física y técnicamente. El examen de cinta negra es diferente a cualquier otro examen de Kyu.
 
@@ -654,7 +661,8 @@ Kata
 **Una vez el maestro sienta que estás preparado, serás invitado al examen de grado**  
   
 ---
-  
+
+[`Ir al inicio`](#requerimientos-de-grados "Ir a inicio")  
 # EL CAMINO AL SHODAN
 Felicitaciones por tu ascenso al 1er Kyu. Ahora ya deberías haber aprendido todas las habilidades básicas y conocimiento para convertirte en cinturón negro. En esta etapa, te has preparado para tu examen de cinturón negro. Asegúrate de que todas tus técnicas están en buena forma, trabajo en los pequeños detalles de los katas, y entiende la terminología y la historia, los modales, dentro y fuera del dojo. Pide ayuda a tu sensei o senpai con los katas y bunkai. Este es el momento en que tu tendrás que identificar todos tus malos hábitos y corregirlos.  
 
@@ -693,4 +701,3 @@ La siguiente es una lista de los requerimientos para llegar al próximo nivel �
 + El propósito del Karate KenKyu club fue asegurarse de la preservación del karate como un tesoro cultural intangible de Okinawa por siempre, para llevar la comunidad de karate de la isla a una sola fuera cohesiva, para transmitir el karate tradicional a las futuras generaciones tanto en Okinawa como en cualquier lugar del mundo, y elevar el karate ante los ojos de los japoneses llevándolo al nivel que ya disfrutaban tanto el judo como el kendo.
 
 **Una vez el maestro sienta que estás preparado, serás invitado al examen de grado**
-
