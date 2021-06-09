@@ -30,7 +30,8 @@ El **dōjō** es un espacio cerrado o al aire libre de forma rectangular o cuadr
 **Kamidana (神棚):** es el altar sintoísta o budista, presente al frente del dōjō. En él se da la bienvenida a los espíritus de los ancestros o "kami"; contiene símbolos tradicionales y/o las imágenes de los maestros fundadores del arte marcial a desarrollar.
 
 **Shomen (正面):** es el frente del dōjō, la pared opuesta a la entrada. En la tradición japonesa, suele apuntar al norte.
-Tokonoma (床の間): en el dōjō, se refiere al espacio físico donde se encuentra el kamidana.
+
+**Tokonoma (床の間):** en el dōjō, se refiere al espacio físico donde se encuentra el kamidana.
 Otras partes:
 
 **Joseki:** es el lado derecho del dōjō, donde se sientan los estudiantes de mayor grado o experiencia.
