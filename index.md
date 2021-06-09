@@ -1,4 +1,4 @@
-+ [Silabario](https://alfredo-arias.github.io/silabarios "Silabario")
++ [Silabario](https://alfredo-arias.github.io/silabario "Silabario")
 + [Katas](https://alfredo-arias.github.io/katas "Katas")
 + [Dojo](https://alfredo-arias.github.io/dojo "Dojo")
 + [Las 7 virtudes del bushido](https://alfredo-arias.github.io/las-7-virtudes-del-bushido "Las 7 virtudes del bushido")

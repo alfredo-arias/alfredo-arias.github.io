@@ -1,4 +1,7 @@
 # Vocabulario
+
+--- 
+
 Romanji   | Español
 ----------|-------------------------------
 KIZAMI 	  |	Pierna adelantada
@@ -11,6 +14,9 @@ TOBI	  |	Pierna atrasada saltando
 
 # Técnicas
 ## GERI WAZA
+
+---
+
 Romaji              | Español
 --------------------|-----------------------
 FUMIKOMI GERI 		| Patada aplastante
@@ -24,6 +30,7 @@ KAITEN MAWASHI GERI	| Patada circular con giro
 ---
 
 ## TSUKI WAZA
+
 Romanji        | Español
 ---------------|-------------------------------
 OI TSUKI       | Puño y pierna adelantado
