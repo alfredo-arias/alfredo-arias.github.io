@@ -2,21 +2,22 @@
 ## Requerimientos de kata y bunkai según los kyu para adultos
 
 ---
- Rango | Kata | Bunkai
-----|---|---
-[`10mo kyu`](el-camino-al-10mo-kyu) | |
-[`9no kyu`](el-camino-al-9no-kyu) | Gekisai Dai Ichi - Secuencia (embusen) | 
-[`8vo kyu`](el-camino-al-8vo-kyu) | Gekisai Dai Ichi -  Buena forma |
-[`8vo kyu`](el-camino-al-8vo-kyu) | Gekisai Dai Ni - Secuencia (embusen) | 
-[`7mo kyu`](el-camino-al-7mo-kyu) | Gekisai Dai Ni - Buena forma | Gekisai Dai Ichi
-[`7mo kyu`](el-camino-al-7mo-kyu) | Sanchin - Secuencia (embusen) | 
-[`6to kyu`](el-camino-al-6to-kyu) | Saifa - Secuencia (embusen) |Gekisai Dai Ni
-[`5to kyu`](el-camino-al-5to-kyu) | Saifa - Buena forma | Saifa
-[`4to kyu`](el-camino-al-4to-kyu) | Seiyunchin - Secuencia (embusen)| Gekisai Dai Ichi Renzoku
-[`3ro kyu`](el-camino-al-3ro-kyu) | Seiyunchin - Buena forma | Seiyunchin (primeros 6)
-[`2do kyu`](el-camino-al-2do-kyu) | Shisochin - Secuencia (embusen) | Seiyunchin (últimos 6)
-[`1er kyu`](el-camino-al-1er-kyu) | Shisochin - Buena forma |
-[`Shodan`](el-camino-al-shodan) | | Shisochin
+
+ Rango                                | Kata                                   | Bunkai
+--------------------------------------|----------------------------------------|---------------------------
+[`10mo kyu`](el-camino-al-10mo-kyu)   |                                        |
+[`9no kyu`](el-camino-al-9no-kyu)     | Gekisai Dai Ichi - Secuencia (embusen) | 
+[`8vo kyu`](el-camino-al-8vo-kyu)     | Gekisai Dai Ichi -  Buena forma        |
+[`8vo kyu`](el-camino-al-8vo-kyu)     | Gekisai Dai Ni - Secuencia (embusen)   | 
+[`7mo kyu`](el-camino-al-7mo-kyu)     | Gekisai Dai Ni - Buena forma           | Gekisai Dai Ichi
+[`7mo kyu`](el-camino-al-7mo-kyu)     | Sanchin - Secuencia (embusen)          | 
+[`6to kyu`](el-camino-al-6to-kyu)     | Saifa - Secuencia (embusen)            | Gekisai Dai Ni
+[`5to kyu`](el-camino-al-5to-kyu)     | Saifa - Buena forma                    | Saifa
+[`4to kyu`](el-camino-al-4to-kyu)     | Seiyunchin - Secuencia (embusen)       | Gekisai Dai Ichi Renzoku
+[`3ro kyu`](el-camino-al-3ro-kyu)     | Seiyunchin - Buena forma               | Seiyunchin (primeros 6)
+[`2do kyu`](el-camino-al-2do-kyu)     | Shisochin - Secuencia (embusen)        | Seiyunchin (últimos 6)
+[`1er kyu`](el-camino-al-1er-kyu)     | Shisochin - Buena forma                |
+[`Shodan`](el-camino-al-shodan)       |                                        | Shisochin
 
 ---  
 
