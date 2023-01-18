@@ -1,21 +1,23 @@
 # CURRICULUM VITAE
 ## Alfredo Ernesto Arias Corporan
 ### **Datos generales**
+---
 - Cédula : 001-1317982-4
 - Fecha de nacimiento: 04-07-1979
 - Estado civil : Casado
 - Dirección: Respaldo Neptuno 32, Sol de Luz, Santo Domingo Norte, 11205, Santo Domingo, República Dominicana
 - Correo electrónico: alfredo.ernesto.arias@outlook.com
 - Telefóno celular: 829.557.6880
-
-### **Formación académica y profesional**
-- Maestría en Educación Superior Mención Planeamiento Educativo, UNEV, May-2021 - Actual
-- Diplomado en Power BI, Análisis y Visualización de Datos (Business Intelligence), UdeCataluña, Mar-2023
-- Posgrado en Transformación Digital de las Empresas y Big Data, Next Internacional, Mar-2019
-- Posgrado en Transformación Digital de las Empresas y Organizaciones, Universidad de Lleida, Dic-2019
-- Diplomado en Liderazgo y Emprendedurismo con Responsabilidad Social, UASD, Jul-2013
-- Licenciatura en Psicología Industrial, UASD, Oct-2013
-- Tecnólogo en Desarrollo de Software, ITLA, Ene-2002
+---
+Formación académica y profesional                                                                           |
+----------------------------------------------------------------------------------------------------------- |
+- Maestría en Educación Superior Mención Planeamiento Educativo, UNEV, May-2021 - Actual                    |
+- Diplomado en Power BI, Análisis y Visualización de Datos (Business Intelligence), UdeCataluña, Mar-2023   |
+- Posgrado en Transformación Digital de las Empresas y Big Data, Next Internacional, Mar-2019               |
+- Posgrado en Transformación Digital de las Empresas y Organizaciones, Universidad de Lleida, Dic-2019      |
+- Diplomado en Liderazgo y Emprendedurismo con Responsabilidad Social, UASD, Jul-2013                       |
+- Licenciatura en Psicología Industrial, UASD, Oct-2013                                                     |
+- Tecnólogo en Desarrollo de Software, ITLA, Ene-2002                                                       |
 
 ### **Certificaciones en Tecnología de la Información**
 - Microsofot Certified: Azure Databasae Administrator Associate, jul-2022
