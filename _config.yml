@@ -22,7 +22,7 @@
 title: SQLRD | Servicios de tecnología 
 email: alfredo@sqlrd.com
 description: >- # this means to ignore newlines until "baseurl:"
-  MSSQL | SSIS | SSAS | Power BI | Fullstack Dev JS
+  SQLRD
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.sqlrd.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alfredosql
